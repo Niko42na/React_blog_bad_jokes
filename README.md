@@ -1,4 +1,4 @@
-#Bad Jokes blog (React/Reflux)
+# Bad Jokes blog (React/Reflux)
 
 This blog made as project according to 'Mastersing React' by Adam Horton and Ryan Vice.
 
